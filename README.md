@@ -227,4 +227,4 @@ This project is for educational purposes.
 
 # Author
 
-* Your Name – Web Developer Student
+* A Web Developer Student
